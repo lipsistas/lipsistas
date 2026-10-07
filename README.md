@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Loukas Leipsistas 👋
 
-<!--
-**lipsistas/lipsistas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior developer passionate about software development and building practical applications. 
+Currently, I am focusing on strengthening my core programming skills, data structures, and version control with Git.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, HTML / CSS
+- **Tools:** Git, GitHub, VS Code
+- **Environments:** Linux
+
+---
+
+### 🎯 Current Goals
+- 🚀 Building personal portfolio projects.
+- 📚 Improving code quality and clean code practices.
+- 🤝 Contributing to open-source software.
+
+---
+
+### 📬 Connect with me
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/leipsistas])
+- **Email:** your-l.leipsistas@gmail.com
