@@ -21,4 +21,4 @@ Currently, I am focusing on strengthening my core programming skills, data struc
 
 ### 📬 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/leipsistas
-- **Email:** your-l.leipsistas@gmail.com
+- **Email:** l.leipsistas@gmail.com
